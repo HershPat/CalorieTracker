@@ -54,5 +54,10 @@ The system uses PostgreSQL for reliable data storage and Python for the backend 
    - Set and track calorie goals
 
 ## Future Improvements
+- Implement asyncronous database operations
 - Food Picture to Calories using AI
 - Create a graphical user interface
+- Add a login system
+- Add a calorie goal setting system
+- Add a calorie goal tracking system
+
